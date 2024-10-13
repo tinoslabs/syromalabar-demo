@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-88k1ctylad2@6cax2$z*fkoi$l$%$zs8736)i5)-!n#x2ewt$b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['syromalabar-demo.onrender.com']
 
 
 # Application definition
